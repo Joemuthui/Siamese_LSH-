@@ -3,9 +3,7 @@
 
 This is a record linkage application developed in Python with a graphical user interface (GUI) using Streamlit. The application is designed to perform record linkage tasks, which involve identifying and linking records that refer to the same entity across different data sources.
 ## Methods
-We propose two methods, one using the KNN model and the other using the Siamese model. All can be found in the web app.
-
-## Features
+This method uses a Siamese network as well as LSH with a random matrix
 
 - **Graphical User Interface**: The application features an intuitive GUI built with Streamlit, allowing users to interact with the record linkage functionality using a web browser.
   
@@ -13,6 +11,7 @@ We propose two methods, one using the KNN model and the other using the Siamese 
 
 - **Data Import and Export**: The application supports importing data from CSV file formats and exporting linked records to facilitate further analysis and integration with other systems.
 
+### For more information, please look at the Siamese.ipynb and Local sensitive hashing.ipynb
 ## Installation
 
 The application is web-based. As such, there is no need for installation. **Click** (https://inspireaphrc-01.streamlit.app/) 
