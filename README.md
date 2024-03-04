@@ -14,7 +14,7 @@ This method uses a Siamese network as well as LSH with a random matrix
 ### For more information, please look at the Siamese.ipynb and Local sensitive hashing.ipynb
 ## Installation
 
-The application is web-based. As such, there is no need for installation. **Click** (https://inspireaphrc-01.streamlit.app/) 
+The application is web-based. As such, there is no need for installation. **Click** (https://siamese.streamlit.app/) 
 
 ## Additional.
 
