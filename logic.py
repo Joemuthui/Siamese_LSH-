@@ -1,9 +1,6 @@
 import numpy as np
 import pandas as pd
-from recordlinkage.preprocessing import clean
-from recordlinkage.preprocessing import phonetic
 import streamlit as st
-import recordlinkage
 import datetime as dt
 import pickle
 
